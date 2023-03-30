@@ -1,0 +1,12 @@
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100&display=swap"
+        rel="stylesheet">
+   
+
+https://randomuser.me/api/portraits/women/65.jpg
+https://randomuser.me/api/portraits/women/19.jpg
+https://randomuser.me/api/portraits/women/38.jpg
+https://randomuser.me/api/portraits/women/26.jpg
+https://randomuser.me/api/portraits/women/91.jpg
+https://randomuser.me/api/portraits/women/32.jpg
